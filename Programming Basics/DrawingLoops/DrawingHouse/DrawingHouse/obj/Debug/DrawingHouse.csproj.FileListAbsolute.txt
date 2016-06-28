@@ -1,0 +1,6 @@
+e:\documents\visual studio 2015\Projects\DrawingHouse\DrawingHouse\bin\Debug\DrawingHouse.exe.config
+e:\documents\visual studio 2015\Projects\DrawingHouse\DrawingHouse\bin\Debug\DrawingHouse.exe
+e:\documents\visual studio 2015\Projects\DrawingHouse\DrawingHouse\bin\Debug\DrawingHouse.pdb
+e:\documents\visual studio 2015\Projects\DrawingHouse\DrawingHouse\obj\Debug\DrawingHouse.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2015\Projects\DrawingHouse\DrawingHouse\obj\Debug\DrawingHouse.exe
+e:\documents\visual studio 2015\Projects\DrawingHouse\DrawingHouse\obj\Debug\DrawingHouse.pdb

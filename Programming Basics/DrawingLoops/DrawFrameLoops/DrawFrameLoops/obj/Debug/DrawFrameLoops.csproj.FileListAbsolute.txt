@@ -1,0 +1,6 @@
+e:\documents\visual studio 2015\Projects\DrawFrameLoops\DrawFrameLoops\bin\Debug\DrawFrameLoops.exe.config
+e:\documents\visual studio 2015\Projects\DrawFrameLoops\DrawFrameLoops\bin\Debug\DrawFrameLoops.exe
+e:\documents\visual studio 2015\Projects\DrawFrameLoops\DrawFrameLoops\bin\Debug\DrawFrameLoops.pdb
+e:\documents\visual studio 2015\Projects\DrawFrameLoops\DrawFrameLoops\obj\Debug\DrawFrameLoops.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2015\Projects\DrawFrameLoops\DrawFrameLoops\obj\Debug\DrawFrameLoops.exe
+e:\documents\visual studio 2015\Projects\DrawFrameLoops\DrawFrameLoops\obj\Debug\DrawFrameLoops.pdb
