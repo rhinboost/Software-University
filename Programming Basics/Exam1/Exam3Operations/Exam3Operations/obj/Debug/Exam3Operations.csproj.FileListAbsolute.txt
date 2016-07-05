@@ -1,0 +1,5 @@
+e:\documents\visual studio 2015\Projects\Exam3Operations\Exam3Operations\bin\Debug\Exam3Operations.exe.config
+e:\documents\visual studio 2015\Projects\Exam3Operations\Exam3Operations\bin\Debug\Exam3Operations.exe
+e:\documents\visual studio 2015\Projects\Exam3Operations\Exam3Operations\bin\Debug\Exam3Operations.pdb
+e:\documents\visual studio 2015\Projects\Exam3Operations\Exam3Operations\obj\Debug\Exam3Operations.exe
+e:\documents\visual studio 2015\Projects\Exam3Operations\Exam3Operations\obj\Debug\Exam3Operations.pdb

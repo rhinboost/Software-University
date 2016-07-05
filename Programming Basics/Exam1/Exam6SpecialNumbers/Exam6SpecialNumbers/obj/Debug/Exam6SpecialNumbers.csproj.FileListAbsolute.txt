@@ -1,0 +1,6 @@
+e:\documents\visual studio 2015\Projects\Exam6SpecialNumbers\Exam6SpecialNumbers\bin\Debug\Exam6SpecialNumbers.exe.config
+e:\documents\visual studio 2015\Projects\Exam6SpecialNumbers\Exam6SpecialNumbers\bin\Debug\Exam6SpecialNumbers.exe
+e:\documents\visual studio 2015\Projects\Exam6SpecialNumbers\Exam6SpecialNumbers\bin\Debug\Exam6SpecialNumbers.pdb
+e:\documents\visual studio 2015\Projects\Exam6SpecialNumbers\Exam6SpecialNumbers\obj\Debug\Exam6SpecialNumbers.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2015\Projects\Exam6SpecialNumbers\Exam6SpecialNumbers\obj\Debug\Exam6SpecialNumbers.exe
+e:\documents\visual studio 2015\Projects\Exam6SpecialNumbers\Exam6SpecialNumbers\obj\Debug\Exam6SpecialNumbers.pdb

@@ -1,0 +1,6 @@
+e:\documents\visual studio 2015\Projects\Exam1RepairingTheTiles\Exam1RepairingTheTiles\bin\Debug\Exam1RepairingTheTiles.exe.config
+e:\documents\visual studio 2015\Projects\Exam1RepairingTheTiles\Exam1RepairingTheTiles\bin\Debug\Exam1RepairingTheTiles.exe
+e:\documents\visual studio 2015\Projects\Exam1RepairingTheTiles\Exam1RepairingTheTiles\bin\Debug\Exam1RepairingTheTiles.pdb
+e:\documents\visual studio 2015\Projects\Exam1RepairingTheTiles\Exam1RepairingTheTiles\obj\Debug\Exam1RepairingTheTiles.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2015\Projects\Exam1RepairingTheTiles\Exam1RepairingTheTiles\obj\Debug\Exam1RepairingTheTiles.exe
+e:\documents\visual studio 2015\Projects\Exam1RepairingTheTiles\Exam1RepairingTheTiles\obj\Debug\Exam1RepairingTheTiles.pdb

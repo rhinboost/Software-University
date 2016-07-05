@@ -1,0 +1,5 @@
+e:\documents\visual studio 2015\Projects\Exam4SmartLily\Exam4SmartLily\bin\Debug\Exam4SmartLily.exe.config
+e:\documents\visual studio 2015\Projects\Exam4SmartLily\Exam4SmartLily\bin\Debug\Exam4SmartLily.exe
+e:\documents\visual studio 2015\Projects\Exam4SmartLily\Exam4SmartLily\bin\Debug\Exam4SmartLily.pdb
+e:\documents\visual studio 2015\Projects\Exam4SmartLily\Exam4SmartLily\obj\Debug\Exam4SmartLily.exe
+e:\documents\visual studio 2015\Projects\Exam4SmartLily\Exam4SmartLily\obj\Debug\Exam4SmartLily.pdb

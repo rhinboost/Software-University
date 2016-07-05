@@ -1,0 +1,5 @@
+e:\documents\visual studio 2015\Projects\Exam2SleepyTom\Exam2SleepyTom\bin\Debug\Exam2SleepyTom.exe.config
+e:\documents\visual studio 2015\Projects\Exam2SleepyTom\Exam2SleepyTom\bin\Debug\Exam2SleepyTom.exe
+e:\documents\visual studio 2015\Projects\Exam2SleepyTom\Exam2SleepyTom\bin\Debug\Exam2SleepyTom.pdb
+e:\documents\visual studio 2015\Projects\Exam2SleepyTom\Exam2SleepyTom\obj\Debug\Exam2SleepyTom.exe
+e:\documents\visual studio 2015\Projects\Exam2SleepyTom\Exam2SleepyTom\obj\Debug\Exam2SleepyTom.pdb
