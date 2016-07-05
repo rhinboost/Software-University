@@ -1,0 +1,6 @@
+e:\documents\visual studio 2015\Projects\ReverseString\ReverseString\bin\Debug\ReverseString.exe.config
+e:\documents\visual studio 2015\Projects\ReverseString\ReverseString\bin\Debug\ReverseString.exe
+e:\documents\visual studio 2015\Projects\ReverseString\ReverseString\bin\Debug\ReverseString.pdb
+e:\documents\visual studio 2015\Projects\ReverseString\ReverseString\obj\Debug\ReverseString.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2015\Projects\ReverseString\ReverseString\obj\Debug\ReverseString.exe
+e:\documents\visual studio 2015\Projects\ReverseString\ReverseString\obj\Debug\ReverseString.pdb

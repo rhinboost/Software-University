@@ -1,0 +1,6 @@
+e:\documents\visual studio 2015\Projects\SumDigitsOfANumber\SumDigitsOfANumber\bin\Debug\SumDigitsOfANumber.exe.config
+e:\documents\visual studio 2015\Projects\SumDigitsOfANumber\SumDigitsOfANumber\bin\Debug\SumDigitsOfANumber.exe
+e:\documents\visual studio 2015\Projects\SumDigitsOfANumber\SumDigitsOfANumber\bin\Debug\SumDigitsOfANumber.pdb
+e:\documents\visual studio 2015\Projects\SumDigitsOfANumber\SumDigitsOfANumber\obj\Debug\SumDigitsOfANumber.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2015\Projects\SumDigitsOfANumber\SumDigitsOfANumber\obj\Debug\SumDigitsOfANumber.exe
+e:\documents\visual studio 2015\Projects\SumDigitsOfANumber\SumDigitsOfANumber\obj\Debug\SumDigitsOfANumber.pdb

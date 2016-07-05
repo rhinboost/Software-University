@@ -1,0 +1,5 @@
+e:\documents\visual studio 2015\Projects\Factorial\Factorial\bin\Debug\Factorial.exe.config
+e:\documents\visual studio 2015\Projects\Factorial\Factorial\bin\Debug\Factorial.exe
+e:\documents\visual studio 2015\Projects\Factorial\Factorial\bin\Debug\Factorial.pdb
+e:\documents\visual studio 2015\Projects\Factorial\Factorial\obj\Debug\Factorial.exe
+e:\documents\visual studio 2015\Projects\Factorial\Factorial\obj\Debug\Factorial.pdb
