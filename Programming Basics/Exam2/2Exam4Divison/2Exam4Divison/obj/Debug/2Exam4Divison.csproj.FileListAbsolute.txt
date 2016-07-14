@@ -1,0 +1,6 @@
+e:\documents\visual studio 2015\Projects\2Exam4Divison\2Exam4Divison\bin\Debug\2Exam4Divison.exe.config
+e:\documents\visual studio 2015\Projects\2Exam4Divison\2Exam4Divison\bin\Debug\2Exam4Divison.exe
+e:\documents\visual studio 2015\Projects\2Exam4Divison\2Exam4Divison\bin\Debug\2Exam4Divison.pdb
+e:\documents\visual studio 2015\Projects\2Exam4Divison\2Exam4Divison\obj\Debug\2Exam4Divison.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2015\Projects\2Exam4Divison\2Exam4Divison\obj\Debug\2Exam4Divison.exe
+e:\documents\visual studio 2015\Projects\2Exam4Divison\2Exam4Divison\obj\Debug\2Exam4Divison.pdb

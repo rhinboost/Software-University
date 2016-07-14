@@ -1,0 +1,6 @@
+e:\documents\visual studio 2015\Projects\AddHours\AddHours\bin\Debug\AddHours.exe.config
+e:\documents\visual studio 2015\Projects\AddHours\AddHours\bin\Debug\AddHours.exe
+e:\documents\visual studio 2015\Projects\AddHours\AddHours\bin\Debug\AddHours.pdb
+e:\documents\visual studio 2015\Projects\AddHours\AddHours\obj\Debug\AddHours.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2015\Projects\AddHours\AddHours\obj\Debug\AddHours.exe
+e:\documents\visual studio 2015\Projects\AddHours\AddHours\obj\Debug\AddHours.pdb

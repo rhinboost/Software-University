@@ -1,0 +1,6 @@
+e:\documents\visual studio 2015\Projects\2Exam5StopSign\2Exam5StopSign\bin\Debug\2Exam5StopSign.exe.config
+e:\documents\visual studio 2015\Projects\2Exam5StopSign\2Exam5StopSign\obj\Debug\2Exam5StopSign.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2015\Projects\2Exam5StopSign\2Exam5StopSign\bin\Debug\2Exam5StopSign.exe
+e:\documents\visual studio 2015\Projects\2Exam5StopSign\2Exam5StopSign\bin\Debug\2Exam5StopSign.pdb
+e:\documents\visual studio 2015\Projects\2Exam5StopSign\2Exam5StopSign\obj\Debug\2Exam5StopSign.exe
+e:\documents\visual studio 2015\Projects\2Exam5StopSign\2Exam5StopSign\obj\Debug\2Exam5StopSign.pdb

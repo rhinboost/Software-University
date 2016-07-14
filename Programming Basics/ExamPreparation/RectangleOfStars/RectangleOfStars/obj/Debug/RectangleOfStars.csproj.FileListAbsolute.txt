@@ -1,0 +1,6 @@
+e:\documents\visual studio 2015\Projects\RectangleOfStars\RectangleOfStars\bin\Debug\RectangleOfStars.exe.config
+e:\documents\visual studio 2015\Projects\RectangleOfStars\RectangleOfStars\bin\Debug\RectangleOfStars.exe
+e:\documents\visual studio 2015\Projects\RectangleOfStars\RectangleOfStars\bin\Debug\RectangleOfStars.pdb
+e:\documents\visual studio 2015\Projects\RectangleOfStars\RectangleOfStars\obj\Debug\RectangleOfStars.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2015\Projects\RectangleOfStars\RectangleOfStars\obj\Debug\RectangleOfStars.exe
+e:\documents\visual studio 2015\Projects\RectangleOfStars\RectangleOfStars\obj\Debug\RectangleOfStars.pdb

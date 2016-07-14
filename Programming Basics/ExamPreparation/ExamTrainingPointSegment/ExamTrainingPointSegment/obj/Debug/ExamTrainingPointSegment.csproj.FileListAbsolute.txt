@@ -1,0 +1,6 @@
+e:\documents\visual studio 2015\Projects\ExamTrainingPointSegment\ExamTrainingPointSegment\bin\Debug\ExamTrainingPointSegment.exe.config
+e:\documents\visual studio 2015\Projects\ExamTrainingPointSegment\ExamTrainingPointSegment\bin\Debug\ExamTrainingPointSegment.exe
+e:\documents\visual studio 2015\Projects\ExamTrainingPointSegment\ExamTrainingPointSegment\bin\Debug\ExamTrainingPointSegment.pdb
+e:\documents\visual studio 2015\Projects\ExamTrainingPointSegment\ExamTrainingPointSegment\obj\Debug\ExamTrainingPointSegment.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2015\Projects\ExamTrainingPointSegment\ExamTrainingPointSegment\obj\Debug\ExamTrainingPointSegment.exe
+e:\documents\visual studio 2015\Projects\ExamTrainingPointSegment\ExamTrainingPointSegment\obj\Debug\ExamTrainingPointSegment.pdb

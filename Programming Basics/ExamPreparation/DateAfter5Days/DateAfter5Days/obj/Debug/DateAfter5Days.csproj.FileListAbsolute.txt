@@ -1,0 +1,6 @@
+e:\documents\visual studio 2015\Projects\DateAfter5Days\DateAfter5Days\bin\Debug\DateAfter5Days.exe.config
+e:\documents\visual studio 2015\Projects\DateAfter5Days\DateAfter5Days\bin\Debug\DateAfter5Days.exe
+e:\documents\visual studio 2015\Projects\DateAfter5Days\DateAfter5Days\bin\Debug\DateAfter5Days.pdb
+e:\documents\visual studio 2015\Projects\DateAfter5Days\DateAfter5Days\obj\Debug\DateAfter5Days.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2015\Projects\DateAfter5Days\DateAfter5Days\obj\Debug\DateAfter5Days.exe
+e:\documents\visual studio 2015\Projects\DateAfter5Days\DateAfter5Days\obj\Debug\DateAfter5Days.pdb

@@ -1,0 +1,6 @@
+e:\documents\visual studio 2015\Projects\Increasing4Numbers\Increasing4Numbers\bin\Debug\Increasing4Numbers.exe.config
+e:\documents\visual studio 2015\Projects\Increasing4Numbers\Increasing4Numbers\bin\Debug\Increasing4Numbers.exe
+e:\documents\visual studio 2015\Projects\Increasing4Numbers\Increasing4Numbers\bin\Debug\Increasing4Numbers.pdb
+e:\documents\visual studio 2015\Projects\Increasing4Numbers\Increasing4Numbers\obj\Debug\Increasing4Numbers.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2015\Projects\Increasing4Numbers\Increasing4Numbers\obj\Debug\Increasing4Numbers.exe
+e:\documents\visual studio 2015\Projects\Increasing4Numbers\Increasing4Numbers\obj\Debug\Increasing4Numbers.pdb

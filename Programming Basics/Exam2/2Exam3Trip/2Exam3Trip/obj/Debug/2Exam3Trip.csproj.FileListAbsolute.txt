@@ -1,0 +1,6 @@
+e:\documents\visual studio 2015\Projects\2Exam3Trip\2Exam3Trip\bin\Debug\2Exam3Trip.exe.config
+e:\documents\visual studio 2015\Projects\2Exam3Trip\2Exam3Trip\bin\Debug\2Exam3Trip.exe
+e:\documents\visual studio 2015\Projects\2Exam3Trip\2Exam3Trip\bin\Debug\2Exam3Trip.pdb
+e:\documents\visual studio 2015\Projects\2Exam3Trip\2Exam3Trip\obj\Debug\2Exam3Trip.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2015\Projects\2Exam3Trip\2Exam3Trip\obj\Debug\2Exam3Trip.exe
+e:\documents\visual studio 2015\Projects\2Exam3Trip\2Exam3Trip\obj\Debug\2Exam3Trip.pdb

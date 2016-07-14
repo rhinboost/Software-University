@@ -1,0 +1,5 @@
+e:\documents\visual studio 2015\Projects\SumSteps3\SumSteps3\bin\Debug\SumSteps3.exe.config
+e:\documents\visual studio 2015\Projects\SumSteps3\SumSteps3\bin\Debug\SumSteps3.exe
+e:\documents\visual studio 2015\Projects\SumSteps3\SumSteps3\bin\Debug\SumSteps3.pdb
+e:\documents\visual studio 2015\Projects\SumSteps3\SumSteps3\obj\Debug\SumSteps3.exe
+e:\documents\visual studio 2015\Projects\SumSteps3\SumSteps3\obj\Debug\SumSteps3.pdb

@@ -1,0 +1,6 @@
+e:\documents\visual studio 2015\Projects\3Exam3OnTimeForTheExam\3Exam3OnTimeForTheExam\bin\Debug\3Exam3OnTimeForTheExam.exe.config
+e:\documents\visual studio 2015\Projects\3Exam3OnTimeForTheExam\3Exam3OnTimeForTheExam\bin\Debug\3Exam3OnTimeForTheExam.exe
+e:\documents\visual studio 2015\Projects\3Exam3OnTimeForTheExam\3Exam3OnTimeForTheExam\bin\Debug\3Exam3OnTimeForTheExam.pdb
+e:\documents\visual studio 2015\Projects\3Exam3OnTimeForTheExam\3Exam3OnTimeForTheExam\obj\Debug\3Exam3OnTimeForTheExam.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2015\Projects\3Exam3OnTimeForTheExam\3Exam3OnTimeForTheExam\obj\Debug\3Exam3OnTimeForTheExam.exe
+e:\documents\visual studio 2015\Projects\3Exam3OnTimeForTheExam\3Exam3OnTimeForTheExam\obj\Debug\3Exam3OnTimeForTheExam.pdb

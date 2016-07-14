@@ -1,0 +1,6 @@
+e:\documents\visual studio 2015\Projects\ExamTrainingBricks\ExamTrainingBricks\bin\Debug\ExamTrainingBricks.exe.config
+e:\documents\visual studio 2015\Projects\ExamTrainingBricks\ExamTrainingBricks\bin\Debug\ExamTrainingBricks.exe
+e:\documents\visual studio 2015\Projects\ExamTrainingBricks\ExamTrainingBricks\bin\Debug\ExamTrainingBricks.pdb
+e:\documents\visual studio 2015\Projects\ExamTrainingBricks\ExamTrainingBricks\obj\Debug\ExamTrainingBricks.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2015\Projects\ExamTrainingBricks\ExamTrainingBricks\obj\Debug\ExamTrainingBricks.exe
+e:\documents\visual studio 2015\Projects\ExamTrainingBricks\ExamTrainingBricks\obj\Debug\ExamTrainingBricks.pdb

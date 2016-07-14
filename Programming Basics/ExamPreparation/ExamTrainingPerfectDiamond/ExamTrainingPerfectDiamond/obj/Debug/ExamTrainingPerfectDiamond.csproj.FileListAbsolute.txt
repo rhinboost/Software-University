@@ -1,0 +1,6 @@
+e:\documents\visual studio 2015\Projects\ExamTrainingPerfectDiamond\ExamTrainingPerfectDiamond\bin\Debug\ExamTrainingPerfectDiamond.exe.config
+e:\documents\visual studio 2015\Projects\ExamTrainingPerfectDiamond\ExamTrainingPerfectDiamond\bin\Debug\ExamTrainingPerfectDiamond.exe
+e:\documents\visual studio 2015\Projects\ExamTrainingPerfectDiamond\ExamTrainingPerfectDiamond\bin\Debug\ExamTrainingPerfectDiamond.pdb
+e:\documents\visual studio 2015\Projects\ExamTrainingPerfectDiamond\ExamTrainingPerfectDiamond\obj\Debug\ExamTrainingPerfectDiamond.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2015\Projects\ExamTrainingPerfectDiamond\ExamTrainingPerfectDiamond\obj\Debug\ExamTrainingPerfectDiamond.exe
+e:\documents\visual studio 2015\Projects\ExamTrainingPerfectDiamond\ExamTrainingPerfectDiamond\obj\Debug\ExamTrainingPerfectDiamond.pdb

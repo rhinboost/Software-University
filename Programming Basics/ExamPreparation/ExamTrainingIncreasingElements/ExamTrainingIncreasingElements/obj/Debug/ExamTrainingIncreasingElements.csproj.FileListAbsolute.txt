@@ -1,0 +1,6 @@
+e:\documents\visual studio 2015\Projects\ExamTrainingIncreasingElements\ExamTrainingIncreasingElements\bin\Debug\ExamTrainingIncreasingElements.exe.config
+e:\documents\visual studio 2015\Projects\ExamTrainingIncreasingElements\ExamTrainingIncreasingElements\bin\Debug\ExamTrainingIncreasingElements.exe
+e:\documents\visual studio 2015\Projects\ExamTrainingIncreasingElements\ExamTrainingIncreasingElements\bin\Debug\ExamTrainingIncreasingElements.pdb
+e:\documents\visual studio 2015\Projects\ExamTrainingIncreasingElements\ExamTrainingIncreasingElements\obj\Debug\ExamTrainingIncreasingElements.exe
+e:\documents\visual studio 2015\Projects\ExamTrainingIncreasingElements\ExamTrainingIncreasingElements\obj\Debug\ExamTrainingIncreasingElements.pdb
+e:\documents\visual studio 2015\Projects\ExamTrainingIncreasingElements\ExamTrainingIncreasingElements\obj\Debug\ExamTrainingIncreasingElements.csprojResolveAssemblyReference.cache

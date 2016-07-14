@@ -1,0 +1,5 @@
+e:\documents\visual studio 2015\Projects\VegetableMarket\VegetableMarket\bin\Debug\VegetableMarket.exe.config
+e:\documents\visual studio 2015\Projects\VegetableMarket\VegetableMarket\bin\Debug\VegetableMarket.exe
+e:\documents\visual studio 2015\Projects\VegetableMarket\VegetableMarket\bin\Debug\VegetableMarket.pdb
+e:\documents\visual studio 2015\Projects\VegetableMarket\VegetableMarket\obj\Debug\VegetableMarket.exe
+e:\documents\visual studio 2015\Projects\VegetableMarket\VegetableMarket\obj\Debug\VegetableMarket.pdb

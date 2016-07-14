@@ -1,0 +1,6 @@
+e:\documents\visual studio 2015\Projects\3Exam5DrawFort\3Exam5DrawFort\bin\Debug\3Exam5DrawFort.exe.config
+e:\documents\visual studio 2015\Projects\3Exam5DrawFort\3Exam5DrawFort\bin\Debug\3Exam5DrawFort.exe
+e:\documents\visual studio 2015\Projects\3Exam5DrawFort\3Exam5DrawFort\bin\Debug\3Exam5DrawFort.pdb
+e:\documents\visual studio 2015\Projects\3Exam5DrawFort\3Exam5DrawFort\obj\Debug\3Exam5DrawFort.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2015\Projects\3Exam5DrawFort\3Exam5DrawFort\obj\Debug\3Exam5DrawFort.exe
+e:\documents\visual studio 2015\Projects\3Exam5DrawFort\3Exam5DrawFort\obj\Debug\3Exam5DrawFort.pdb
