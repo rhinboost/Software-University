@@ -4,3 +4,6 @@ e:\documents\visual studio 2015\Projects\Increasing4Numbers\Increasing4Numbers\b
 e:\documents\visual studio 2015\Projects\Increasing4Numbers\Increasing4Numbers\obj\Debug\Increasing4Numbers.csprojResolveAssemblyReference.cache
 e:\documents\visual studio 2015\Projects\Increasing4Numbers\Increasing4Numbers\obj\Debug\Increasing4Numbers.exe
 e:\documents\visual studio 2015\Projects\Increasing4Numbers\Increasing4Numbers\obj\Debug\Increasing4Numbers.pdb
+E:\Desktop\Software-University\Programming Basics\ExamPreparation\Increasing4Numbers\Increasing4Numbers\bin\Debug\Increasing4Numbers.exe.config
+E:\Desktop\Software-University\Programming Basics\ExamPreparation\Increasing4Numbers\Increasing4Numbers\obj\Debug\Increasing4Numbers.exe
+E:\Desktop\Software-University\Programming Basics\ExamPreparation\Increasing4Numbers\Increasing4Numbers\obj\Debug\Increasing4Numbers.pdb

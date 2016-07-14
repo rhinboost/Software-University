@@ -13,61 +13,37 @@ namespace ExamTrainingIncreasingElements
 
             int n = int.Parse(Console.ReadLine());
 
-
-            int num = 0;
             int lastNum = 0;
-            int lastNum2 = 0;
-
 
             int counter = 0;
-            int counter2 = 0;
+            int maxLength = 0;
 
-            bool locked = false;
 
-            for (int i = 0; i < n; i++)
+            for (int i = 1; i <= n; i++)
             {
-                num = int.Parse(Console.ReadLine());
+               int num = int.Parse(Console.ReadLine());
 
-                if(num > lastNum && !locked)
+                if(num > lastNum)
                 {
                     counter++;
-                    lastNum = num;
                     
                 }
                 else
                 {
-                    locked = true;
-
-                    if(num > lastNum2)
-                    {
-                        counter2++;
-                        lastNum2 = num;
-                    }
-                   
-
-                    if(counter2 > counter && num < lastNum2)
-                    {
-                        counter = 0;
-                        locked = false;
-                    }
+                    counter = 1;
 
                 }
                 
+                if(counter > maxLength)
+                {
+                    maxLength = counter;
+                }
 
-                
-               
 
+                lastNum = num;
             }
 
-            if (counter > counter2)
-            {
-                Console.WriteLine(counter);
-            }
-            else
-            {
-                Console.WriteLine(counter2);
-
-            }
+            Console.WriteLine(maxLength);
 
 
             Console.ReadKey();
