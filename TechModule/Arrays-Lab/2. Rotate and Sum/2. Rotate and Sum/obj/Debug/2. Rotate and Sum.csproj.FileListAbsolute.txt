@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\2. Rotate and Sum\2. Rotate and Sum\bin\Debug\_2.Rotate_and_Sum.exe.config
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\2. Rotate and Sum\2. Rotate and Sum\bin\Debug\_2.Rotate_and_Sum.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\2. Rotate and Sum\2. Rotate and Sum\bin\Debug\_2.Rotate_and_Sum.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\2. Rotate and Sum\2. Rotate and Sum\obj\Debug\2. Rotate and Sum.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\2. Rotate and Sum\2. Rotate and Sum\obj\Debug\_2.Rotate_and_Sum.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\2. Rotate and Sum\2. Rotate and Sum\obj\Debug\_2.Rotate_and_Sum.pdb

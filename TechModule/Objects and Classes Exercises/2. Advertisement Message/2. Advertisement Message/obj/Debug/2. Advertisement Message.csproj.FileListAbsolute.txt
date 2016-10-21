@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2015\Projects\TechModule\Objects and Classes Exercises\2. Advertisement Message\2. Advertisement Message\bin\Debug\_2.Advertisement_Message.exe.config
+E:\Documents\Visual Studio 2015\Projects\TechModule\Objects and Classes Exercises\2. Advertisement Message\2. Advertisement Message\bin\Debug\_2.Advertisement_Message.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Objects and Classes Exercises\2. Advertisement Message\2. Advertisement Message\bin\Debug\_2.Advertisement_Message.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\Objects and Classes Exercises\2. Advertisement Message\2. Advertisement Message\obj\Debug\2. Advertisement Message.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\TechModule\Objects and Classes Exercises\2. Advertisement Message\2. Advertisement Message\obj\Debug\_2.Advertisement_Message.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Objects and Classes Exercises\2. Advertisement Message\2. Advertisement Message\obj\Debug\_2.Advertisement_Message.pdb

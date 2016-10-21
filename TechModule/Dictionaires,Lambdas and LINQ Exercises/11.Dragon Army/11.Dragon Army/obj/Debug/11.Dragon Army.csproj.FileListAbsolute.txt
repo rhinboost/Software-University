@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2015\Projects\TechModule\Dictionaires,Lambdas and LINQ Exercises\11.Dragon Army\11.Dragon Army\bin\Debug\11.Dragon Army.exe.config
+E:\Documents\Visual Studio 2015\Projects\TechModule\Dictionaires,Lambdas and LINQ Exercises\11.Dragon Army\11.Dragon Army\bin\Debug\11.Dragon Army.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Dictionaires,Lambdas and LINQ Exercises\11.Dragon Army\11.Dragon Army\bin\Debug\11.Dragon Army.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\Dictionaires,Lambdas and LINQ Exercises\11.Dragon Army\11.Dragon Army\obj\Debug\11.Dragon Army.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\TechModule\Dictionaires,Lambdas and LINQ Exercises\11.Dragon Army\11.Dragon Army\obj\Debug\11.Dragon Army.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Dictionaires,Lambdas and LINQ Exercises\11.Dragon Army\11.Dragon Army\obj\Debug\11.Dragon Army.pdb

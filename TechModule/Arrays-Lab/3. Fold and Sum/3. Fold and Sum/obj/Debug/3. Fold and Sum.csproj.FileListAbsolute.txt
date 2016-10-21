@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\3. Fold and Sum\3. Fold and Sum\bin\Debug\_3.Fold_and_Sum.exe.config
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\3. Fold and Sum\3. Fold and Sum\bin\Debug\_3.Fold_and_Sum.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\3. Fold and Sum\3. Fold and Sum\bin\Debug\_3.Fold_and_Sum.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\3. Fold and Sum\3. Fold and Sum\obj\Debug\3. Fold and Sum.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\3. Fold and Sum\3. Fold and Sum\obj\Debug\_3.Fold_and_Sum.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\3. Fold and Sum\3. Fold and Sum\obj\Debug\_3.Fold_and_Sum.pdb

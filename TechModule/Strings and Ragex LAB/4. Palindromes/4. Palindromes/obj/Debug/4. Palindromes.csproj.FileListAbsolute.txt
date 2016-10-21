@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2015\Projects\TechModule\Strings and Ragex LAB\4. Palindromes\4. Palindromes\bin\Debug\_4.Palindromes.exe.config
+E:\Documents\Visual Studio 2015\Projects\TechModule\Strings and Ragex LAB\4. Palindromes\4. Palindromes\bin\Debug\_4.Palindromes.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Strings and Ragex LAB\4. Palindromes\4. Palindromes\bin\Debug\_4.Palindromes.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\Strings and Ragex LAB\4. Palindromes\4. Palindromes\obj\Debug\4. Palindromes.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\TechModule\Strings and Ragex LAB\4. Palindromes\4. Palindromes\obj\Debug\_4.Palindromes.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Strings and Ragex LAB\4. Palindromes\4. Palindromes\obj\Debug\_4.Palindromes.pdb

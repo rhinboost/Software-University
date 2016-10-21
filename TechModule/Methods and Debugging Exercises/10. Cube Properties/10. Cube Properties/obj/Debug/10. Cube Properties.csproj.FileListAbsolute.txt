@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2015\Projects\TechModule\Methods and Debugging Exercises\10. Cube Properties\10. Cube Properties\bin\Debug\_10.Cube_Properties.exe.config
+E:\Documents\Visual Studio 2015\Projects\TechModule\Methods and Debugging Exercises\10. Cube Properties\10. Cube Properties\bin\Debug\_10.Cube_Properties.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Methods and Debugging Exercises\10. Cube Properties\10. Cube Properties\bin\Debug\_10.Cube_Properties.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\Methods and Debugging Exercises\10. Cube Properties\10. Cube Properties\obj\Debug\10. Cube Properties.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\TechModule\Methods and Debugging Exercises\10. Cube Properties\10. Cube Properties\obj\Debug\_10.Cube_Properties.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Methods and Debugging Exercises\10. Cube Properties\10. Cube Properties\obj\Debug\_10.Cube_Properties.pdb

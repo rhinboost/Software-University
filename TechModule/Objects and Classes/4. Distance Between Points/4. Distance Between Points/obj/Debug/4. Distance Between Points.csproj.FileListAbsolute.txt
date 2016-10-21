@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2015\Projects\TechModule\Objects and Classes\4. Distance Between Points\4. Distance Between Points\bin\Debug\_4.Distance_Between_Points.exe.config
+E:\Documents\Visual Studio 2015\Projects\TechModule\Objects and Classes\4. Distance Between Points\4. Distance Between Points\bin\Debug\_4.Distance_Between_Points.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Objects and Classes\4. Distance Between Points\4. Distance Between Points\bin\Debug\_4.Distance_Between_Points.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\Objects and Classes\4. Distance Between Points\4. Distance Between Points\obj\Debug\4. Distance Between Points.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\TechModule\Objects and Classes\4. Distance Between Points\4. Distance Between Points\obj\Debug\_4.Distance_Between_Points.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Objects and Classes\4. Distance Between Points\4. Distance Between Points\obj\Debug\_4.Distance_Between_Points.pdb

@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\10. Remove Negatives and Reverse\10. Remove Negatives and Reverse\bin\Debug\_10.Remove_Negatives_and_Reverse.exe.config
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\10. Remove Negatives and Reverse\10. Remove Negatives and Reverse\bin\Debug\_10.Remove_Negatives_and_Reverse.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\10. Remove Negatives and Reverse\10. Remove Negatives and Reverse\bin\Debug\_10.Remove_Negatives_and_Reverse.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\10. Remove Negatives and Reverse\10. Remove Negatives and Reverse\obj\Debug\10. Remove Negatives and Reverse.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\10. Remove Negatives and Reverse\10. Remove Negatives and Reverse\obj\Debug\_10.Remove_Negatives_and_Reverse.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\10. Remove Negatives and Reverse\10. Remove Negatives and Reverse\obj\Debug\_10.Remove_Negatives_and_Reverse.pdb

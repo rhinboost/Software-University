@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2015\Projects\TechModule\Methods and Debugging Exercises\8. Center Point\8. Center Point\bin\Debug\_8.Center_Point.exe.config
+E:\Documents\Visual Studio 2015\Projects\TechModule\Methods and Debugging Exercises\8. Center Point\8. Center Point\bin\Debug\_8.Center_Point.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Methods and Debugging Exercises\8. Center Point\8. Center Point\bin\Debug\_8.Center_Point.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\Methods and Debugging Exercises\8. Center Point\8. Center Point\obj\Debug\_8.Center_Point.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Methods and Debugging Exercises\8. Center Point\8. Center Point\obj\Debug\_8.Center_Point.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\Methods and Debugging Exercises\8. Center Point\8. Center Point\obj\Debug\8. Center Point.csprojResolveAssemblyReference.cache

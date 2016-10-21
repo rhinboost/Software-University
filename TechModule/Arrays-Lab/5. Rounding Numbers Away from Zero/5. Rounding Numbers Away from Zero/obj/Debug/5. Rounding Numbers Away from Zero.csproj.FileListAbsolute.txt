@@ -1,0 +1,5 @@
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\5. Rounding Numbers Away from Zero\5. Rounding Numbers Away from Zero\bin\Debug\_5.Rounding_Numbers_Away_from_Zero.exe.config
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\5. Rounding Numbers Away from Zero\5. Rounding Numbers Away from Zero\bin\Debug\_5.Rounding_Numbers_Away_from_Zero.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\5. Rounding Numbers Away from Zero\5. Rounding Numbers Away from Zero\bin\Debug\_5.Rounding_Numbers_Away_from_Zero.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\5. Rounding Numbers Away from Zero\5. Rounding Numbers Away from Zero\obj\Debug\_5.Rounding_Numbers_Away_from_Zero.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\5. Rounding Numbers Away from Zero\5. Rounding Numbers Away from Zero\obj\Debug\_5.Rounding_Numbers_Away_from_Zero.pdb

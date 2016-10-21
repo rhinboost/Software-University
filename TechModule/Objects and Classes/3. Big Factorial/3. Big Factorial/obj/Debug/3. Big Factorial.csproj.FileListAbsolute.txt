@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2015\Projects\TechModule\Objects and Classes\3. Big Factorial\3. Big Factorial\bin\Debug\_3.Big_Factorial.exe.config
+E:\Documents\Visual Studio 2015\Projects\TechModule\Objects and Classes\3. Big Factorial\3. Big Factorial\bin\Debug\_3.Big_Factorial.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Objects and Classes\3. Big Factorial\3. Big Factorial\bin\Debug\_3.Big_Factorial.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\Objects and Classes\3. Big Factorial\3. Big Factorial\obj\Debug\3. Big Factorial.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\TechModule\Objects and Classes\3. Big Factorial\3. Big Factorial\obj\Debug\_3.Big_Factorial.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Objects and Classes\3. Big Factorial\3. Big Factorial\obj\Debug\_3.Big_Factorial.pdb

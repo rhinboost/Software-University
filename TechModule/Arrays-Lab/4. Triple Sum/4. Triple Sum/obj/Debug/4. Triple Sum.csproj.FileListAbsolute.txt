@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\4. Triple Sum\4. Triple Sum\bin\Debug\_4.Triple_Sum.exe.config
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\4. Triple Sum\4. Triple Sum\bin\Debug\_4.Triple_Sum.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\4. Triple Sum\4. Triple Sum\bin\Debug\_4.Triple_Sum.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\4. Triple Sum\4. Triple Sum\obj\Debug\_4.Triple_Sum.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\4. Triple Sum\4. Triple Sum\obj\Debug\_4.Triple_Sum.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\4. Triple Sum\4. Triple Sum\obj\Debug\4. Triple Sum.csprojResolveAssemblyReference.cache

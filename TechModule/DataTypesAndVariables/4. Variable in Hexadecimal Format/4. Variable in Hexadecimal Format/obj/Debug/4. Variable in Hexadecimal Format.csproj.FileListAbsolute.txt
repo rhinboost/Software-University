@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2015\Projects\TechModule\DataTypesAndVariables\4. Variable in Hexadecimal Format\4. Variable in Hexadecimal Format\bin\Debug\_4.Variable_in_Hexadecimal_Format.exe.config
+E:\Documents\Visual Studio 2015\Projects\TechModule\DataTypesAndVariables\4. Variable in Hexadecimal Format\4. Variable in Hexadecimal Format\bin\Debug\_4.Variable_in_Hexadecimal_Format.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\DataTypesAndVariables\4. Variable in Hexadecimal Format\4. Variable in Hexadecimal Format\bin\Debug\_4.Variable_in_Hexadecimal_Format.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\DataTypesAndVariables\4. Variable in Hexadecimal Format\4. Variable in Hexadecimal Format\obj\Debug\4. Variable in Hexadecimal Format.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\TechModule\DataTypesAndVariables\4. Variable in Hexadecimal Format\4. Variable in Hexadecimal Format\obj\Debug\_4.Variable_in_Hexadecimal_Format.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\DataTypesAndVariables\4. Variable in Hexadecimal Format\4. Variable in Hexadecimal Format\obj\Debug\_4.Variable_in_Hexadecimal_Format.pdb

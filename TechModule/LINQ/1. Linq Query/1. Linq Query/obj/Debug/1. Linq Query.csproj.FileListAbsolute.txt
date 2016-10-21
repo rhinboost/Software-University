@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2015\Projects\TechModule\LINQ\1. Linq Query\1. Linq Query\bin\Debug\_1.Linq_Query.exe.config
+E:\Documents\Visual Studio 2015\Projects\TechModule\LINQ\1. Linq Query\1. Linq Query\bin\Debug\_1.Linq_Query.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\LINQ\1. Linq Query\1. Linq Query\bin\Debug\_1.Linq_Query.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\LINQ\1. Linq Query\1. Linq Query\obj\Debug\1. Linq Query.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\TechModule\LINQ\1. Linq Query\1. Linq Query\obj\Debug\_1.Linq_Query.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\LINQ\1. Linq Query\1. Linq Query\obj\Debug\_1.Linq_Query.pdb

@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2015\Projects\TechModule\Methods and Debugging Exercises\7. Primes in Given Range\7. Primes in Given Range\bin\Debug\_7.Primes_in_Given_Range.exe.config
+E:\Documents\Visual Studio 2015\Projects\TechModule\Methods and Debugging Exercises\7. Primes in Given Range\7. Primes in Given Range\bin\Debug\_7.Primes_in_Given_Range.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Methods and Debugging Exercises\7. Primes in Given Range\7. Primes in Given Range\bin\Debug\_7.Primes_in_Given_Range.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\Methods and Debugging Exercises\7. Primes in Given Range\7. Primes in Given Range\obj\Debug\7. Primes in Given Range.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\TechModule\Methods and Debugging Exercises\7. Primes in Given Range\7. Primes in Given Range\obj\Debug\_7.Primes_in_Given_Range.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Methods and Debugging Exercises\7. Primes in Given Range\7. Primes in Given Range\obj\Debug\_7.Primes_in_Given_Range.pdb

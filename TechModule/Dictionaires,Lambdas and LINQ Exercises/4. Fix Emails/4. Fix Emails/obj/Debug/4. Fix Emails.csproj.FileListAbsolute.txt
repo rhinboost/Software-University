@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2015\Projects\TechModule\Dictionaires,Lambdas and LINQ Exercises\4. Fix Emails\4. Fix Emails\bin\Debug\_4.Fix_Emails.exe.config
+E:\Documents\Visual Studio 2015\Projects\TechModule\Dictionaires,Lambdas and LINQ Exercises\4. Fix Emails\4. Fix Emails\bin\Debug\_4.Fix_Emails.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Dictionaires,Lambdas and LINQ Exercises\4. Fix Emails\4. Fix Emails\bin\Debug\_4.Fix_Emails.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\Dictionaires,Lambdas and LINQ Exercises\4. Fix Emails\4. Fix Emails\obj\Debug\4. Fix Emails.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\TechModule\Dictionaires,Lambdas and LINQ Exercises\4. Fix Emails\4. Fix Emails\obj\Debug\_4.Fix_Emails.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Dictionaires,Lambdas and LINQ Exercises\4. Fix Emails\4. Fix Emails\obj\Debug\_4.Fix_Emails.pdb

@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2015\Projects\TechModule\Dictionaires,Lambdas and LINQ Exercises\6. User Logs\6. User Logs\bin\Debug\_6.User_Logs.exe.config
+E:\Documents\Visual Studio 2015\Projects\TechModule\Dictionaires,Lambdas and LINQ Exercises\6. User Logs\6. User Logs\bin\Debug\_6.User_Logs.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Dictionaires,Lambdas and LINQ Exercises\6. User Logs\6. User Logs\bin\Debug\_6.User_Logs.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\Dictionaires,Lambdas and LINQ Exercises\6. User Logs\6. User Logs\obj\Debug\6. User Logs.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\TechModule\Dictionaires,Lambdas and LINQ Exercises\6. User Logs\6. User Logs\obj\Debug\_6.User_Logs.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Dictionaires,Lambdas and LINQ Exercises\6. User Logs\6. User Logs\obj\Debug\_6.User_Logs.pdb

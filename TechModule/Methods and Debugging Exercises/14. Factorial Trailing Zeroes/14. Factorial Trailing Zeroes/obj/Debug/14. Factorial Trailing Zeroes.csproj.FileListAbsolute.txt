@@ -1,0 +1,5 @@
+E:\Documents\Visual Studio 2015\Projects\TechModule\Methods and Debugging Exercises\14. Factorial Trailing Zeroes\14. Factorial Trailing Zeroes\bin\Debug\_14.Factorial_Trailing_Zeroes.exe.config
+E:\Documents\Visual Studio 2015\Projects\TechModule\Methods and Debugging Exercises\14. Factorial Trailing Zeroes\14. Factorial Trailing Zeroes\bin\Debug\_14.Factorial_Trailing_Zeroes.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Methods and Debugging Exercises\14. Factorial Trailing Zeroes\14. Factorial Trailing Zeroes\bin\Debug\_14.Factorial_Trailing_Zeroes.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\Methods and Debugging Exercises\14. Factorial Trailing Zeroes\14. Factorial Trailing Zeroes\obj\Debug\_14.Factorial_Trailing_Zeroes.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Methods and Debugging Exercises\14. Factorial Trailing Zeroes\14. Factorial Trailing Zeroes\obj\Debug\_14.Factorial_Trailing_Zeroes.pdb

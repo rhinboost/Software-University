@@ -1,0 +1,5 @@
+E:\Documents\Visual Studio 2015\Projects\TechModule\Files, Directories, Exceptions LAB\04. Merge Files\04. Merge Files\bin\Debug\_04.Merge_Files.exe.config
+E:\Documents\Visual Studio 2015\Projects\TechModule\Files, Directories, Exceptions LAB\04. Merge Files\04. Merge Files\bin\Debug\_04.Merge_Files.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Files, Directories, Exceptions LAB\04. Merge Files\04. Merge Files\bin\Debug\_04.Merge_Files.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\Files, Directories, Exceptions LAB\04. Merge Files\04. Merge Files\obj\Debug\_04.Merge_Files.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Files, Directories, Exceptions LAB\04. Merge Files\04. Merge Files\obj\Debug\_04.Merge_Files.pdb

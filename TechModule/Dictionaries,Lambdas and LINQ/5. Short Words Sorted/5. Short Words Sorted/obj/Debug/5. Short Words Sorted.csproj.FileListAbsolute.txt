@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2015\Projects\TechModule\Dictionaries,Lambdas and LINQ\5. Short Words Sorted\5. Short Words Sorted\bin\Debug\_5.Short_Words_Sorted.exe.config
+E:\Documents\Visual Studio 2015\Projects\TechModule\Dictionaries,Lambdas and LINQ\5. Short Words Sorted\5. Short Words Sorted\bin\Debug\_5.Short_Words_Sorted.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Dictionaries,Lambdas and LINQ\5. Short Words Sorted\5. Short Words Sorted\bin\Debug\_5.Short_Words_Sorted.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\Dictionaries,Lambdas and LINQ\5. Short Words Sorted\5. Short Words Sorted\obj\Debug\5. Short Words Sorted.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\TechModule\Dictionaries,Lambdas and LINQ\5. Short Words Sorted\5. Short Words Sorted\obj\Debug\_5.Short_Words_Sorted.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Dictionaries,Lambdas and LINQ\5. Short Words Sorted\5. Short Words Sorted\obj\Debug\_5.Short_Words_Sorted.pdb

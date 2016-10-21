@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\3. Last K Numbers Sums Sequence\3. Last K Numbers Sums Sequence\bin\Debug\_3.Last_K_Numbers_Sums_Sequence.exe.config
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\3. Last K Numbers Sums Sequence\3. Last K Numbers Sums Sequence\bin\Debug\_3.Last_K_Numbers_Sums_Sequence.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\3. Last K Numbers Sums Sequence\3. Last K Numbers Sums Sequence\bin\Debug\_3.Last_K_Numbers_Sums_Sequence.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\3. Last K Numbers Sums Sequence\3. Last K Numbers Sums Sequence\obj\Debug\3. Last K Numbers Sums Sequence.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\3. Last K Numbers Sums Sequence\3. Last K Numbers Sums Sequence\obj\Debug\_3.Last_K_Numbers_Sums_Sequence.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\3. Last K Numbers Sums Sequence\3. Last K Numbers Sums Sequence\obj\Debug\_3.Last_K_Numbers_Sums_Sequence.pdb

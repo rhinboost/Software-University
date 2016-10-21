@@ -1,0 +1,5 @@
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\15. Sum Reversed Numbers\15. Sum Reversed Numbers\bin\Debug\_15.Sum_Reversed_Numbers.exe.config
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\15. Sum Reversed Numbers\15. Sum Reversed Numbers\bin\Debug\_15.Sum_Reversed_Numbers.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\15. Sum Reversed Numbers\15. Sum Reversed Numbers\bin\Debug\_15.Sum_Reversed_Numbers.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\15. Sum Reversed Numbers\15. Sum Reversed Numbers\obj\Debug\_15.Sum_Reversed_Numbers.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\15. Sum Reversed Numbers\15. Sum Reversed Numbers\obj\Debug\_15.Sum_Reversed_Numbers.pdb

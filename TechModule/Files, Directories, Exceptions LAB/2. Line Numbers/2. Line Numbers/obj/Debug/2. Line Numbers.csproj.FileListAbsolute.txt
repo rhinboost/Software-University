@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2015\Projects\TechModule\Files, Directories, Exceptions LAB\2. Line Numbers\2. Line Numbers\bin\Debug\_2.Line_Numbers.exe.config
+E:\Documents\Visual Studio 2015\Projects\TechModule\Files, Directories, Exceptions LAB\2. Line Numbers\2. Line Numbers\bin\Debug\_2.Line_Numbers.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Files, Directories, Exceptions LAB\2. Line Numbers\2. Line Numbers\bin\Debug\_2.Line_Numbers.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\Files, Directories, Exceptions LAB\2. Line Numbers\2. Line Numbers\obj\Debug\2. Line Numbers.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\TechModule\Files, Directories, Exceptions LAB\2. Line Numbers\2. Line Numbers\obj\Debug\_2.Line_Numbers.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Files, Directories, Exceptions LAB\2. Line Numbers\2. Line Numbers\obj\Debug\_2.Line_Numbers.pdb

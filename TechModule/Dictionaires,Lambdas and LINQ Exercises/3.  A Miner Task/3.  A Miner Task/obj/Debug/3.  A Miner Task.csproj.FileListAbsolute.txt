@@ -1,0 +1,5 @@
+E:\Documents\Visual Studio 2015\Projects\TechModule\Dictionaires,Lambdas and LINQ Exercises\3.  A Miner Task\3.  A Miner Task\bin\Debug\_3.A_Miner_Task.exe.config
+E:\Documents\Visual Studio 2015\Projects\TechModule\Dictionaires,Lambdas and LINQ Exercises\3.  A Miner Task\3.  A Miner Task\bin\Debug\_3.A_Miner_Task.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Dictionaires,Lambdas and LINQ Exercises\3.  A Miner Task\3.  A Miner Task\bin\Debug\_3.A_Miner_Task.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\Dictionaires,Lambdas and LINQ Exercises\3.  A Miner Task\3.  A Miner Task\obj\Debug\_3.A_Miner_Task.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Dictionaires,Lambdas and LINQ Exercises\3.  A Miner Task\3.  A Miner Task\obj\Debug\_3.A_Miner_Task.pdb

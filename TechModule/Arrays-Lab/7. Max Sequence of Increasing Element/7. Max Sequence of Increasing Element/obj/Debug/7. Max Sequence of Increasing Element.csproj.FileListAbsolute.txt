@@ -1,0 +1,5 @@
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\7. Max Sequence of Increasing Element\7. Max Sequence of Increasing Element\bin\Debug\_7.Max_Sequence_of_Increasing_Element.exe.config
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\7. Max Sequence of Increasing Element\7. Max Sequence of Increasing Element\bin\Debug\_7.Max_Sequence_of_Increasing_Element.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\7. Max Sequence of Increasing Element\7. Max Sequence of Increasing Element\bin\Debug\_7.Max_Sequence_of_Increasing_Element.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\7. Max Sequence of Increasing Element\7. Max Sequence of Increasing Element\obj\Debug\_7.Max_Sequence_of_Increasing_Element.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\7. Max Sequence of Increasing Element\7. Max Sequence of Increasing Element\obj\Debug\_7.Max_Sequence_of_Increasing_Element.pdb

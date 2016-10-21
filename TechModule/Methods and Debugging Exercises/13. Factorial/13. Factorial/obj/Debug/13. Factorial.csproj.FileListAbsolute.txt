@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2015\Projects\TechModule\Methods and Debugging Exercises\13. Factorial\13. Factorial\bin\Debug\_13.Factorial.exe.config
+E:\Documents\Visual Studio 2015\Projects\TechModule\Methods and Debugging Exercises\13. Factorial\13. Factorial\bin\Debug\_13.Factorial.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Methods and Debugging Exercises\13. Factorial\13. Factorial\bin\Debug\_13.Factorial.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\Methods and Debugging Exercises\13. Factorial\13. Factorial\obj\Debug\13. Factorial.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\TechModule\Methods and Debugging Exercises\13. Factorial\13. Factorial\obj\Debug\_13.Factorial.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Methods and Debugging Exercises\13. Factorial\13. Factorial\obj\Debug\_13.Factorial.pdb

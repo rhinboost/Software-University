@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2015\Projects\TechModule\String Operations\1. SubString and Replace\1. SubString and Replace\bin\Debug\_1.SubString_and_Replace.exe.config
+E:\Documents\Visual Studio 2015\Projects\TechModule\String Operations\1. SubString and Replace\1. SubString and Replace\bin\Debug\_1.SubString_and_Replace.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\String Operations\1. SubString and Replace\1. SubString and Replace\bin\Debug\_1.SubString_and_Replace.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\String Operations\1. SubString and Replace\1. SubString and Replace\obj\Debug\1. SubString and Replace.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\TechModule\String Operations\1. SubString and Replace\1. SubString and Replace\obj\Debug\_1.SubString_and_Replace.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\String Operations\1. SubString and Replace\1. SubString and Replace\obj\Debug\_1.SubString_and_Replace.pdb

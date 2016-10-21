@@ -1,0 +1,5 @@
+E:\Documents\Visual Studio 2015\Projects\TechModule\Methods and Debugging Exercises\9. Longer Line\9. Longer Line\bin\Debug\_9.Longer_Line.exe.config
+E:\Documents\Visual Studio 2015\Projects\TechModule\Methods and Debugging Exercises\9. Longer Line\9. Longer Line\bin\Debug\_9.Longer_Line.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Methods and Debugging Exercises\9. Longer Line\9. Longer Line\bin\Debug\_9.Longer_Line.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\Methods and Debugging Exercises\9. Longer Line\9. Longer Line\obj\Debug\_9.Longer_Line.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Methods and Debugging Exercises\9. Longer Line\9. Longer Line\obj\Debug\_9.Longer_Line.pdb

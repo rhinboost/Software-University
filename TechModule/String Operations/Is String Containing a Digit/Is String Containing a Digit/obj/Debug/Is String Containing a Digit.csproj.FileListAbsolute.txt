@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2015\Projects\TechModule\String Operations\Is String Containing a Digit\Is String Containing a Digit\bin\Debug\Is String Containing a Digit.exe.config
+E:\Documents\Visual Studio 2015\Projects\TechModule\String Operations\Is String Containing a Digit\Is String Containing a Digit\bin\Debug\Is String Containing a Digit.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\String Operations\Is String Containing a Digit\Is String Containing a Digit\bin\Debug\Is String Containing a Digit.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\String Operations\Is String Containing a Digit\Is String Containing a Digit\obj\Debug\Is String Containing a Digit.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\TechModule\String Operations\Is String Containing a Digit\Is String Containing a Digit\obj\Debug\Is String Containing a Digit.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\String Operations\Is String Containing a Digit\Is String Containing a Digit\obj\Debug\Is String Containing a Digit.pdb

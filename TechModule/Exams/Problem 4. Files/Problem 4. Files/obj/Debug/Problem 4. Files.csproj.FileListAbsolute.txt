@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2015\Projects\TechModule\Exams\Problem 4. Files\Problem 4. Files\bin\Debug\Problem_4.Files.exe.config
+E:\Documents\Visual Studio 2015\Projects\TechModule\Exams\Problem 4. Files\Problem 4. Files\bin\Debug\Problem_4.Files.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Exams\Problem 4. Files\Problem 4. Files\bin\Debug\Problem_4.Files.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\Exams\Problem 4. Files\Problem 4. Files\obj\Debug\Problem 4. Files.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\TechModule\Exams\Problem 4. Files\Problem 4. Files\obj\Debug\Problem_4.Files.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Exams\Problem 4. Files\Problem 4. Files\obj\Debug\Problem_4.Files.pdb

@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2015\Projects\TechModule\Objects and Classes Exercises\6. Book Library Update\6. Book Library Update\bin\Debug\_6.Book_Library_Update.exe.config
+E:\Documents\Visual Studio 2015\Projects\TechModule\Objects and Classes Exercises\6. Book Library Update\6. Book Library Update\bin\Debug\_6.Book_Library_Update.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Objects and Classes Exercises\6. Book Library Update\6. Book Library Update\bin\Debug\_6.Book_Library_Update.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\Objects and Classes Exercises\6. Book Library Update\6. Book Library Update\obj\Debug\6. Book Library Update.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\TechModule\Objects and Classes Exercises\6. Book Library Update\6. Book Library Update\obj\Debug\_6.Book_Library_Update.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Objects and Classes Exercises\6. Book Library Update\6. Book Library Update\obj\Debug\_6.Book_Library_Update.pdb

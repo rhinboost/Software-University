@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2015\Projects\TechModule\Objects and Classes Exercises\4. Average Grades\4. Average Grades\bin\Debug\_4.Average_Grades.exe.config
+E:\Documents\Visual Studio 2015\Projects\TechModule\Objects and Classes Exercises\4. Average Grades\4. Average Grades\bin\Debug\_4.Average_Grades.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Objects and Classes Exercises\4. Average Grades\4. Average Grades\bin\Debug\_4.Average_Grades.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\Objects and Classes Exercises\4. Average Grades\4. Average Grades\obj\Debug\4. Average Grades.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\TechModule\Objects and Classes Exercises\4. Average Grades\4. Average Grades\obj\Debug\_4.Average_Grades.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Objects and Classes Exercises\4. Average Grades\4. Average Grades\obj\Debug\_4.Average_Grades.pdb

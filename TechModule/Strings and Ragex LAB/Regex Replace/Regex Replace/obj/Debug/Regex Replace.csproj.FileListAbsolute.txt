@@ -1,0 +1,5 @@
+E:\Documents\Visual Studio 2015\Projects\TechModule\Strings and Ragex LAB\Regex Replace\Regex Replace\bin\Debug\Regex Replace.exe.config
+E:\Documents\Visual Studio 2015\Projects\TechModule\Strings and Ragex LAB\Regex Replace\Regex Replace\bin\Debug\Regex Replace.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Strings and Ragex LAB\Regex Replace\Regex Replace\bin\Debug\Regex Replace.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\Strings and Ragex LAB\Regex Replace\Regex Replace\obj\Debug\Regex Replace.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Strings and Ragex LAB\Regex Replace\Regex Replace\obj\Debug\Regex Replace.pdb

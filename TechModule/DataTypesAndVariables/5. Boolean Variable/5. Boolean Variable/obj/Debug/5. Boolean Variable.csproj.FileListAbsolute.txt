@@ -1,0 +1,5 @@
+E:\Documents\Visual Studio 2015\Projects\TechModule\DataTypesAndVariables\5. Boolean Variable\5. Boolean Variable\bin\Debug\_5.Boolean_Variable.exe.config
+E:\Documents\Visual Studio 2015\Projects\TechModule\DataTypesAndVariables\5. Boolean Variable\5. Boolean Variable\bin\Debug\_5.Boolean_Variable.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\DataTypesAndVariables\5. Boolean Variable\5. Boolean Variable\bin\Debug\_5.Boolean_Variable.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\DataTypesAndVariables\5. Boolean Variable\5. Boolean Variable\obj\Debug\_5.Boolean_Variable.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\DataTypesAndVariables\5. Boolean Variable\5. Boolean Variable\obj\Debug\_5.Boolean_Variable.pdb

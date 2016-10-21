@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2015\Projects\TechModule\Dictionaires,Lambdas and LINQ Exercises\1. Phonebook\1. Phonebook\bin\Debug\_1.Phonebook.exe.config
+E:\Documents\Visual Studio 2015\Projects\TechModule\Dictionaires,Lambdas and LINQ Exercises\1. Phonebook\1. Phonebook\bin\Debug\_1.Phonebook.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Dictionaires,Lambdas and LINQ Exercises\1. Phonebook\1. Phonebook\bin\Debug\_1.Phonebook.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\Dictionaires,Lambdas and LINQ Exercises\1. Phonebook\1. Phonebook\obj\Debug\1. Phonebook.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\TechModule\Dictionaires,Lambdas and LINQ Exercises\1. Phonebook\1. Phonebook\obj\Debug\_1.Phonebook.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Dictionaires,Lambdas and LINQ Exercises\1. Phonebook\1. Phonebook\obj\Debug\_1.Phonebook.pdb

@@ -1,0 +1,5 @@
+E:\Documents\Visual Studio 2015\Projects\TechModule\DataTypesAndVariables\7. Exchange Variable Values\7. Exchange Variable Values\bin\Debug\_7.Exchange_Variable_Values.exe.config
+E:\Documents\Visual Studio 2015\Projects\TechModule\DataTypesAndVariables\7. Exchange Variable Values\7. Exchange Variable Values\bin\Debug\_7.Exchange_Variable_Values.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\DataTypesAndVariables\7. Exchange Variable Values\7. Exchange Variable Values\bin\Debug\_7.Exchange_Variable_Values.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\DataTypesAndVariables\7. Exchange Variable Values\7. Exchange Variable Values\obj\Debug\_7.Exchange_Variable_Values.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\DataTypesAndVariables\7. Exchange Variable Values\7. Exchange Variable Values\obj\Debug\_7.Exchange_Variable_Values.pdb

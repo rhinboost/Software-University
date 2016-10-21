@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2015\Projects\TechModule\String and Regex Exercises\10. Extract emails\10. Extract emails\bin\Debug\_10.Extract_emails.exe.config
+E:\Documents\Visual Studio 2015\Projects\TechModule\String and Regex Exercises\10. Extract emails\10. Extract emails\bin\Debug\_10.Extract_emails.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\String and Regex Exercises\10. Extract emails\10. Extract emails\bin\Debug\_10.Extract_emails.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\String and Regex Exercises\10. Extract emails\10. Extract emails\obj\Debug\10. Extract emails.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\TechModule\String and Regex Exercises\10. Extract emails\10. Extract emails\obj\Debug\_10.Extract_emails.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\String and Regex Exercises\10. Extract emails\10. Extract emails\obj\Debug\_10.Extract_emails.pdb

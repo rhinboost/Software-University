@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2015\Projects\TechModule\Dictionaires,Lambdas and LINQ Exercises\5. Hands of cards\5. Hands of cards\bin\Debug\_5.Hands_of_cards.exe.config
+E:\Documents\Visual Studio 2015\Projects\TechModule\Dictionaires,Lambdas and LINQ Exercises\5. Hands of cards\5. Hands of cards\bin\Debug\_5.Hands_of_cards.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Dictionaires,Lambdas and LINQ Exercises\5. Hands of cards\5. Hands of cards\bin\Debug\_5.Hands_of_cards.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\Dictionaires,Lambdas and LINQ Exercises\5. Hands of cards\5. Hands of cards\obj\Debug\5. Hands of cards.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\TechModule\Dictionaires,Lambdas and LINQ Exercises\5. Hands of cards\5. Hands of cards\obj\Debug\_5.Hands_of_cards.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Dictionaires,Lambdas and LINQ Exercises\5. Hands of cards\5. Hands of cards\obj\Debug\_5.Hands_of_cards.pdb

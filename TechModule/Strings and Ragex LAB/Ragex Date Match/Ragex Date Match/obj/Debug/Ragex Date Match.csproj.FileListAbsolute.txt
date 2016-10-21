@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2015\Projects\TechModule\Strings and Ragex LAB\Ragex Date Match\Ragex Date Match\bin\Debug\Ragex Date Match.exe.config
+E:\Documents\Visual Studio 2015\Projects\TechModule\Strings and Ragex LAB\Ragex Date Match\Ragex Date Match\bin\Debug\Ragex Date Match.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Strings and Ragex LAB\Ragex Date Match\Ragex Date Match\bin\Debug\Ragex Date Match.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\Strings and Ragex LAB\Ragex Date Match\Ragex Date Match\obj\Debug\Ragex Date Match.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\TechModule\Strings and Ragex LAB\Ragex Date Match\Ragex Date Match\obj\Debug\Ragex Date Match.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Strings and Ragex LAB\Ragex Date Match\Ragex Date Match\obj\Debug\Ragex Date Match.pdb

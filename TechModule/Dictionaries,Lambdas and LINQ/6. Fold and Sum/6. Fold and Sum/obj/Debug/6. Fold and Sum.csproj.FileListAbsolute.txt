@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2015\Projects\TechModule\Dictionaries,Lambdas and LINQ\6. Fold and Sum\6. Fold and Sum\bin\Debug\_6.Fold_and_Sum.exe.config
+E:\Documents\Visual Studio 2015\Projects\TechModule\Dictionaries,Lambdas and LINQ\6. Fold and Sum\6. Fold and Sum\bin\Debug\_6.Fold_and_Sum.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Dictionaries,Lambdas and LINQ\6. Fold and Sum\6. Fold and Sum\bin\Debug\_6.Fold_and_Sum.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\Dictionaries,Lambdas and LINQ\6. Fold and Sum\6. Fold and Sum\obj\Debug\_6.Fold_and_Sum.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Dictionaries,Lambdas and LINQ\6. Fold and Sum\6. Fold and Sum\obj\Debug\_6.Fold_and_Sum.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\Dictionaries,Lambdas and LINQ\6. Fold and Sum\6. Fold and Sum\obj\Debug\6. Fold and Sum.csprojResolveAssemblyReference.cache

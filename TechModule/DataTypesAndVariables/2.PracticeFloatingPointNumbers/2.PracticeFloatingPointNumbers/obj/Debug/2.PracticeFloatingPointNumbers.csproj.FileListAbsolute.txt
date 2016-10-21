@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2015\Projects\TechModule\DataTypesAndVariables\2.PracticeFloatingPointNumbers\2.PracticeFloatingPointNumbers\bin\Debug\2.PracticeFloatingPointNumbers.exe.config
+E:\Documents\Visual Studio 2015\Projects\TechModule\DataTypesAndVariables\2.PracticeFloatingPointNumbers\2.PracticeFloatingPointNumbers\bin\Debug\2.PracticeFloatingPointNumbers.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\DataTypesAndVariables\2.PracticeFloatingPointNumbers\2.PracticeFloatingPointNumbers\bin\Debug\2.PracticeFloatingPointNumbers.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\DataTypesAndVariables\2.PracticeFloatingPointNumbers\2.PracticeFloatingPointNumbers\obj\Debug\2.PracticeFloatingPointNumbers.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\TechModule\DataTypesAndVariables\2.PracticeFloatingPointNumbers\2.PracticeFloatingPointNumbers\obj\Debug\2.PracticeFloatingPointNumbers.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\DataTypesAndVariables\2.PracticeFloatingPointNumbers\2.PracticeFloatingPointNumbers\obj\Debug\2.PracticeFloatingPointNumbers.pdb

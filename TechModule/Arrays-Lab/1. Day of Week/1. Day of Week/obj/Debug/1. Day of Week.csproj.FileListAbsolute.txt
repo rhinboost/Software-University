@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\1. Day of Week\1. Day of Week\bin\Debug\_1.Day_of_Week.exe.config
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\1. Day of Week\1. Day of Week\bin\Debug\_1.Day_of_Week.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\1. Day of Week\1. Day of Week\bin\Debug\_1.Day_of_Week.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\1. Day of Week\1. Day of Week\obj\Debug\1. Day of Week.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\1. Day of Week\1. Day of Week\obj\Debug\_1.Day_of_Week.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\1. Day of Week\1. Day of Week\obj\Debug\_1.Day_of_Week.pdb

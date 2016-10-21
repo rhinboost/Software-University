@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2015\Projects\TechModule\String and Regex Exercises\4. Character Multiplier\4. Character Multiplier\bin\Debug\_4.Character_Multiplier.exe.config
+E:\Documents\Visual Studio 2015\Projects\TechModule\String and Regex Exercises\4. Character Multiplier\4. Character Multiplier\bin\Debug\_4.Character_Multiplier.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\String and Regex Exercises\4. Character Multiplier\4. Character Multiplier\bin\Debug\_4.Character_Multiplier.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\String and Regex Exercises\4. Character Multiplier\4. Character Multiplier\obj\Debug\4. Character Multiplier.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\TechModule\String and Regex Exercises\4. Character Multiplier\4. Character Multiplier\obj\Debug\_4.Character_Multiplier.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\String and Regex Exercises\4. Character Multiplier\4. Character Multiplier\obj\Debug\_4.Character_Multiplier.pdb

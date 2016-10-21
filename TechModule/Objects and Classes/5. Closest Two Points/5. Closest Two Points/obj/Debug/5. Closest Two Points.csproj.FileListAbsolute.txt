@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2015\Projects\TechModule\Objects and Classes\5. Closest Two Points\5. Closest Two Points\bin\Debug\_5.Closest_Two_Points.exe.config
+E:\Documents\Visual Studio 2015\Projects\TechModule\Objects and Classes\5. Closest Two Points\5. Closest Two Points\bin\Debug\_5.Closest_Two_Points.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Objects and Classes\5. Closest Two Points\5. Closest Two Points\bin\Debug\_5.Closest_Two_Points.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\Objects and Classes\5. Closest Two Points\5. Closest Two Points\obj\Debug\5. Closest Two Points.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\TechModule\Objects and Classes\5. Closest Two Points\5. Closest Two Points\obj\Debug\_5.Closest_Two_Points.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Objects and Classes\5. Closest Two Points\5. Closest Two Points\obj\Debug\_5.Closest_Two_Points.pdb

@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2015\Projects\TechModule\Methods and Debugging Exercises\3. English Name of Last Digit\3. English Name of Last Digit\bin\Debug\_3.English_Name_of_Last_Digit.exe.config
+E:\Documents\Visual Studio 2015\Projects\TechModule\Methods and Debugging Exercises\3. English Name of Last Digit\3. English Name of Last Digit\bin\Debug\_3.English_Name_of_Last_Digit.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Methods and Debugging Exercises\3. English Name of Last Digit\3. English Name of Last Digit\bin\Debug\_3.English_Name_of_Last_Digit.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\Methods and Debugging Exercises\3. English Name of Last Digit\3. English Name of Last Digit\obj\Debug\3. English Name of Last Digit.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\TechModule\Methods and Debugging Exercises\3. English Name of Last Digit\3. English Name of Last Digit\obj\Debug\_3.English_Name_of_Last_Digit.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Methods and Debugging Exercises\3. English Name of Last Digit\3. English Name of Last Digit\obj\Debug\_3.English_Name_of_Last_Digit.pdb

@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2015\Projects\TechModule\Files, Directories, Exceptions LAB\5. Get Folder Size\5. Get Folder Size\bin\Debug\_5.Get_Folder_Size.exe.config
+E:\Documents\Visual Studio 2015\Projects\TechModule\Files, Directories, Exceptions LAB\5. Get Folder Size\5. Get Folder Size\bin\Debug\_5.Get_Folder_Size.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Files, Directories, Exceptions LAB\5. Get Folder Size\5. Get Folder Size\bin\Debug\_5.Get_Folder_Size.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\Files, Directories, Exceptions LAB\5. Get Folder Size\5. Get Folder Size\obj\Debug\5. Get Folder Size.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\TechModule\Files, Directories, Exceptions LAB\5. Get Folder Size\5. Get Folder Size\obj\Debug\_5.Get_Folder_Size.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Files, Directories, Exceptions LAB\5. Get Folder Size\5. Get Folder Size\obj\Debug\_5.Get_Folder_Size.pdb

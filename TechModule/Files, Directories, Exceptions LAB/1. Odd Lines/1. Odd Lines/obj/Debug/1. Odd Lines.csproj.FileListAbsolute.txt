@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2015\Projects\TechModule\Files, Directories, Exceptions LAB\1. Odd Lines\1. Odd Lines\bin\Debug\_1.Odd_Lines.exe.config
+E:\Documents\Visual Studio 2015\Projects\TechModule\Files, Directories, Exceptions LAB\1. Odd Lines\1. Odd Lines\bin\Debug\_1.Odd_Lines.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Files, Directories, Exceptions LAB\1. Odd Lines\1. Odd Lines\bin\Debug\_1.Odd_Lines.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\Files, Directories, Exceptions LAB\1. Odd Lines\1. Odd Lines\obj\Debug\1. Odd Lines.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\TechModule\Files, Directories, Exceptions LAB\1. Odd Lines\1. Odd Lines\obj\Debug\_1.Odd_Lines.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Files, Directories, Exceptions LAB\1. Odd Lines\1. Odd Lines\obj\Debug\_1.Odd_Lines.pdb

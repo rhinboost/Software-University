@@ -1,0 +1,5 @@
+E:\Documents\Visual Studio 2015\Projects\TechModule\Files, Directories, Exceptions LAB\3. Word Count\3. Word Count\bin\Debug\_3.Word_Count.exe.config
+E:\Documents\Visual Studio 2015\Projects\TechModule\Files, Directories, Exceptions LAB\3. Word Count\3. Word Count\bin\Debug\_3.Word_Count.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Files, Directories, Exceptions LAB\3. Word Count\3. Word Count\bin\Debug\_3.Word_Count.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\Files, Directories, Exceptions LAB\3. Word Count\3. Word Count\obj\Debug\_3.Word_Count.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Files, Directories, Exceptions LAB\3. Word Count\3. Word Count\obj\Debug\_3.Word_Count.pdb

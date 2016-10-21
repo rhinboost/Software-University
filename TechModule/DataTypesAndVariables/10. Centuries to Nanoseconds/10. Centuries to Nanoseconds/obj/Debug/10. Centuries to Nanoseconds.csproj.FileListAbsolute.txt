@@ -1,0 +1,5 @@
+E:\Documents\Visual Studio 2015\Projects\TechModule\DataTypesAndVariables\10. Centuries to Nanoseconds\10. Centuries to Nanoseconds\bin\Debug\_10.Centuries_to_Nanoseconds.exe.config
+E:\Documents\Visual Studio 2015\Projects\TechModule\DataTypesAndVariables\10. Centuries to Nanoseconds\10. Centuries to Nanoseconds\bin\Debug\_10.Centuries_to_Nanoseconds.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\DataTypesAndVariables\10. Centuries to Nanoseconds\10. Centuries to Nanoseconds\bin\Debug\_10.Centuries_to_Nanoseconds.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\DataTypesAndVariables\10. Centuries to Nanoseconds\10. Centuries to Nanoseconds\obj\Debug\_10.Centuries_to_Nanoseconds.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\DataTypesAndVariables\10. Centuries to Nanoseconds\10. Centuries to Nanoseconds\obj\Debug\_10.Centuries_to_Nanoseconds.pdb

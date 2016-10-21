@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2015\Projects\TechModule\Methods and Debugging Exercises\15.Debugging Instructions Set\15.Debugging Instructions Set\bin\Debug\15.Debugging Instructions Set.exe.config
+E:\Documents\Visual Studio 2015\Projects\TechModule\Methods and Debugging Exercises\15.Debugging Instructions Set\15.Debugging Instructions Set\bin\Debug\15.Debugging Instructions Set.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Methods and Debugging Exercises\15.Debugging Instructions Set\15.Debugging Instructions Set\bin\Debug\15.Debugging Instructions Set.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\Methods and Debugging Exercises\15.Debugging Instructions Set\15.Debugging Instructions Set\obj\Debug\15.Debugging Instructions Set.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Methods and Debugging Exercises\15.Debugging Instructions Set\15.Debugging Instructions Set\obj\Debug\15.Debugging Instructions Set.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\Methods and Debugging Exercises\15.Debugging Instructions Set\15.Debugging Instructions Set\obj\Debug\15.Debugging Instructions Set.csprojResolveAssemblyReference.cache

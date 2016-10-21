@@ -1,0 +1,5 @@
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\6. Max Sequence of Equal Elements\6. Max Sequence of Equal Elements\bin\Debug\_6.Max_Sequence_of_Equal_Elements.exe.config
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\6. Max Sequence of Equal Elements\6. Max Sequence of Equal Elements\bin\Debug\_6.Max_Sequence_of_Equal_Elements.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\6. Max Sequence of Equal Elements\6. Max Sequence of Equal Elements\bin\Debug\_6.Max_Sequence_of_Equal_Elements.pdb
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\6. Max Sequence of Equal Elements\6. Max Sequence of Equal Elements\obj\Debug\_6.Max_Sequence_of_Equal_Elements.exe
+E:\Documents\Visual Studio 2015\Projects\TechModule\Arrays-Lab\6. Max Sequence of Equal Elements\6. Max Sequence of Equal Elements\obj\Debug\_6.Max_Sequence_of_Equal_Elements.pdb
